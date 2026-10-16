@@ -178,7 +178,7 @@ By combining data quality assessment, SQL-based analysis, and interactive visual
 - **Dataset:** Mobile Game Monetization Analysis: Driving ARPU through Behavioral Segmentation (Kaggle).
 - **Tools:** Microsoft SQL Server, SQL Server Management Studio (SSMS), and Microsoft Power BI.
 
-[*Add the exact dataset URL and relevant tool documentation before publication.*](https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
+(https://www.kaggle.com/datasets/pratyushpuri/mobile-game-in-app-purchases-dataset-2025)
 
 ## 👤 Author
 **Trieu Phuong Anh**   
